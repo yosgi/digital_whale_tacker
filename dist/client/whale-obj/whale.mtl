@@ -1,0 +1,53 @@
+# Blender MTL File: 'None'
+# Material Count: 5
+
+newmtl 1
+Ns 96.078431
+Ka 0.419608 0.396078 0.396078
+Kd 0.940000 0.940000 0.940000
+Ks 0.020000 0.020000 0.020000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd img-0.jpeg
+
+newmtl dolphinMat
+Ns 96.078431
+Ka 0.419608 0.396078 0.396078
+Kd 0.839216 0.839216 0.839216
+Ks 0.010000 0.010000 0.010000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd img-0.jpeg
+
+newmtl dolphinMat.001
+Ns 96.078431
+Ka 0.419608 0.396078 0.396078
+Kd 0.839216 0.839216 0.839216
+Ks 0.010000 0.010000 0.010000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd img-0.jpeg
+
+newmtl dolphinMat.002
+Ns 96.078431
+Ka 0.419608 0.396078 0.396078
+Kd 0.839216 0.839216 0.839216
+Ks 0.010000 0.010000 0.010000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd img-0.jpeg
+
+newmtl lambert2
+Ns 96.078431
+Ka 0.419608 0.396078 0.396078
+Kd 1.000000 1.000000 1.000000
+Ks 0.020000 0.020000 0.020000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump WhaleLow_lambert1_Normal.png
+map_Kd WhaleLow_lambert1_BaseColor.png
